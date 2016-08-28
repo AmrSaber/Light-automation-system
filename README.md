@@ -1,6 +1,6 @@
 # Light automation system (arduino + android)
 
-##The main idea is to control room's light automatically + remotely
+##The main idea is to control room's light(s) automatically + remotely
 
 ####This was a small project for 2 engineering students in thier first year of electerical engineering in SFE (Shoubra faculty of engineering, Egypt) and it consists mainly of 2 parts ...
 
