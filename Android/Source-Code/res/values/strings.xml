@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="light_btn">Manage Light System</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="tmp_btn">Get Temperature</string>
+    <string name="info">Info</string>
+
+    <string name="light_on">Light On</string>
+    <string name="light_off">Light Off</string>
+    <string name="light_def">Default</string>
+
+    <string name="info_title">Smart Home Project</string>
+    <string name="info_text">Light Automation System\n\nMade By\nAmr Saber &amp; Khatab Salah</string>
+
+    <string name="sys_on">System On</string>
+    <string name="sys_off">System off</string>
+    <string name="p_get">Get People Count</string>
+    <string name="p_set">Set</string>
+    <string name="p_hint">New People Count</string>
+</resources>
